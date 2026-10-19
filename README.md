@@ -196,7 +196,7 @@ For production deployment instructions, domain routing, directory security outsi
 
 ## 6. Credits & Copyright
 
-Desenvolvido por **Kaio Borges Dev** ([dev.kaioborges.com.br](https://dev.kaioborges.com.br/)) — **5E Group** ([@5ebrasil](https://instagram.com/5ebrasil)). Todos os direitos reservados.
+Developed by **Kaio Borges Dev** ([dev.kaioborges.com.br](https://dev.kaioborges.com.br/)) — **5E Group** ([@5ebrasil](https://instagram.com/5ebrasil)). All rights reserved.
 
 ---
 
