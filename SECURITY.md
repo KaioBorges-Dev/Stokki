@@ -15,7 +15,7 @@ We take the security of **Stokki** seriously. Currently, only the latest stable 
 
 If you discover a security vulnerability within the Stokki ecosystem (including the Laravel backend, Flutter application, or database configurations), please report it responsibly by following these steps:
 
-1. **Email Us Directly:** Send a detailed report to security@stockki.io or contact the maintainer directly through **://kaioborges.com.br**.
+1. **Email Us Directly:** Send a detailed report to security@kaioborges.com.br or contact the maintainer directly through **://kaioborges.com.br**.
 2. **Include Technical Details:** To help us understand and patch the issue quickly, please include:
    - A clear description of the vulnerability.
    - Step-by-step instructions or a Proof of Concept (PoC) script to reproduce the behavior.
