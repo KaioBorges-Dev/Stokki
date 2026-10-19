@@ -1,0 +1,31 @@
+{
+  "@@locale": "pt",
+  "appName": "Stockki",
+  "dashboard": "Painel Principal",
+  "inventory": "Estoque",
+  "expiryAlerts": "Alertas de Validade",
+  "scanProduct": "Escanear Rótulo",
+  "settings": "Configurações",
+  "logout": "Sair",
+
+  "productName": "Nome do Produto",
+  "sku": "SKU",
+  "batchNumber": "Número do Lote",
+  "quantity": "Quantidade",
+  "expiryDate": "Data de Validade",
+  "safetyStock": "Estoque Mínimo",
+
+  "statusExpired": "Vencido",
+  "statusExpiringSoon": "Vencendo em Breve",
+  "statusSafe": "Seguro",
+
+  "addProduct": "Novo Produto",
+  "save": "Salvar",
+  "cancel": "Cancelar",
+  "delete": "Excluir",
+  "edit": "Editar",
+
+  "analyzingLabel": "Extraindo informações do rótulo...",
+  "ocrSuccess": "Informações extraídas com sucesso",
+  "ocrFailed": "Falha ao extrair informações do produto"
+}

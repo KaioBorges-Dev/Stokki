@@ -1,0 +1,34 @@
+{
+  "@@locale": "en",
+  "appName": "Stockki",
+  "@appName": {
+    "description": "The title of the application"
+  },
+  "dashboard": "Dashboard",
+  "inventory": "Inventory",
+  "expiryAlerts": "Expiry Alerts",
+  "scanProduct": "Scan Product Label",
+  "settings": "Settings",
+  "logout": "Log Out",
+
+  "productName": "Product Name",
+  "sku": "SKU",
+  "batchNumber": "Batch Number",
+  "quantity": "Quantity",
+  "expiryDate": "Expiry Date",
+  "safetyStock": "Safety Stock",
+
+  "statusExpired": "Expired",
+  "statusExpiringSoon": "Expiring Soon",
+  "statusSafe": "Safe",
+
+  "addProduct": "Add Product",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+
+  "analyzingLabel": "Extracting label details...",
+  "ocrSuccess": "Details extracted successfully",
+  "ocrFailed": "Failed to extract product details"
+}

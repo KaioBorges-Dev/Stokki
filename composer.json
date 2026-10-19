@@ -1,0 +1,11 @@
+{
+    "name": "stockki/stockki",
+    "description": "Stockki Inventory",
+    "authors": [
+        {
+            "name": "Kaio Borges",
+            "email": "contato@kaioborges.com.br"
+        }
+    ],
+    "require": {}
+}

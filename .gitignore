@@ -1,0 +1,14 @@
+/node_modules
+/vendor
+.env
+.phpunit.result.cache
+*.log
+
+# Mobile build
+/mobile/build/
+/mobile/.dart_tool/
+/mobile/.flutter-plugins
+/mobile/.flutter-plugins-dependencies
+
+# Keep screenshots tracked
+!/docs/screenshots/*.png
